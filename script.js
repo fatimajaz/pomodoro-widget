@@ -1,4 +1,3 @@
-<script>
 import React from "https://cdn.skypack.dev/react@17.0.1";
 import ReactDOM from "https://cdn.skypack.dev/react-dom@17.0.1";
 
@@ -282,4 +281,3 @@ class Timer extends React.Component {
 
 
 ReactDOM.render( /*#__PURE__*/React.createElement(App, null), document.getElementById("root"));
-</script>
